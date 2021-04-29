@@ -8,6 +8,8 @@ System.out.println("OP2");
 System.out.println("OP3");
 System.out.println("OP4");
 System.out.println("OP5");
+//opeing in second PC
+System.out.println("OP6");
 	}
 
 }
